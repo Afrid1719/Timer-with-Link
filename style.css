@@ -1,0 +1,14 @@
+.timer-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 30px auto;
+    width: 260px;
+    justify-content: space-between;
+}
+
+.timer-element {
+    font-size: 28px;
+    padding: 18px 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
